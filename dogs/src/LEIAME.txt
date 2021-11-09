@@ -1,4 +1,0 @@
-O projeto final não terá divisão na pasta,
-será um arquivo integral do começo ao fim.
-
-Será 'comitado' no GitHub por aula!
